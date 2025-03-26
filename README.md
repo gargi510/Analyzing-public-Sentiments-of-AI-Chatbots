@@ -111,6 +111,6 @@ ________________________________________
 
 **👩‍💻 Author**
 
-Built by [Gargi Mishra] – [www.linkedin.com/gargi_510]
+Built by Gargi Mishra – www.linkedin.com/in/gargi510
 ________________________________________
 
