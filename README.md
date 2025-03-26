@@ -1,11 +1,11 @@
-🔍 Real-Time Web Scraping & Sentiment Analysis: ChatGPT, Grok, DeepSeek, Gemini (Mar 18–25, 2025)
+**🔍 Real-Time Web Scraping & Sentiment Analysis: ChatGPT, Grok, DeepSeek, Gemini (Mar 18–25, 2025)**
 
 This project performs real-time web scraping and sentiment analysis of trending AI tools—ChatGPT, Grok, DeepSeek, and Gemini—from Reddit and YouTube over a 7-day period (March 18–25, 2025).
 
 It visualizes insights with line charts and word clouds, helping understand public sentiment trends across platforms.
 ________________________________________
 
-🚀 Features
+**🚀 Features**
 
 •	🔄 Real-time scraping using PRAW & YouTube Data API
 
@@ -19,7 +19,7 @@ ________________________________________
 
 ________________________________________
 
-📦 Data Summary
+**📦 Data Summary**
 
 Platform	Posts per Keyword	Total Keywords	Time Range
 
@@ -29,7 +29,7 @@ YouTube	500	4	Mar 18–25, 2025
 
 ________________________________________
 
-📈 Key Insights
+**📈 Key Insights**
 
 YouTube Trends:
 
@@ -53,7 +53,7 @@ Reddit Trends:
 •	Gemini: Growth until Mar 24, followed by a dip.
 
 
-General Observations:
+**General Observations:**
 
 •	ChatGPT remains the most discussed.
 
@@ -63,7 +63,7 @@ General Observations:
 
 ________________________________________
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 •	Python (Google Colab)
 
@@ -77,7 +77,7 @@ ________________________________________
 
 ________________________________________
 
-📉 Limitations & Challenges
+**📉 Limitations & Challenges**
 
 •	YouTube scraping was limited by rate limits; avoided quota by not using full API.
 
@@ -89,7 +89,7 @@ ________________________________________
 
 ________________________________________
 
-📊 Future Enhancements
+**📊 Future Enhancements**
 
 •	📡 Deploy a real-time dashboard using:
 
@@ -104,12 +104,12 @@ o	Deploy on Render, Hugging Face Spaces, or Streamlit Cloud
 
 ________________________________________
 
-📄 License
+**📄 License**
 
 MIT License
 ________________________________________
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Built by [Gargi Mishra] – [www.linkedin.com/gargi_510]
 ________________________________________
